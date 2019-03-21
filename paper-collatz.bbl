@@ -1,0 +1,46 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\noopsort}[1]{}
+\providecommand{\mr}[1]{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR~%
+#1}}
+\providecommand{\zbl}[1]{\href{http://www.zentralblatt-math.org/zmath/en/searc%
+h/?q=an:#1}{Zbl~#1}}
+\providecommand{\jfm}[1]{\href{http://www.emis.de/cgi-bin/JFM-item?#1}{JFM~#1}}
+\providecommand{\arxiv}[1]{\href{http://www.arxiv.org/abs/#1}{arXiv~#1}}
+\providecommand{\doi}[1]{\url{http://dx.doi.org/#1}}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{{Lyn}11}
+
+\bibitem[{Dom}]{Work2s3s}
+\bgroup\scshape{}D.~{Dominici}\egroup{}, {Working with 2s and 3s},
+  \emph{eprint arXiv:math.DS/0704.1057}.
+
+\bibitem[{Fei}]{Cpunp}
+\bgroup\scshape{}C.~A. {Feinstein}\egroup{}, {The Collatz 3n+1 Conjecture is
+  Unprovable},  \emph{Global Journal of Science Frontier Research, Mathematics
+  and Decision Sciences, Volume 12, Issue 8, (2012), 13-15, eprint
+  arXiv:math/0312309}.
+
+\bibitem[{Fei}05]{ComSS}
+\bgroup\scshape{}C.~A. {Feinstein}\egroup{}, {Complexity Science for
+  Simpletons},  \emph{Progress in Physics, 2006, v.3., 35-42, eprint
+  arXiv:cs/0507008} (2005).
+
+\bibitem[{Gho}]{OnCp}
+\bgroup\scshape{}R.~{Ghosh}\egroup{}, {On the Collatz Problem},  \emph{eprint
+  arXiv:math.GM/0804.3716}.
+
+\bibitem[{Kan}]{BouCc}
+\bgroup\scshape{}M.~{Kaneda}\egroup{}, {Bouds for Collatz cycles},
+  \emph{eprint arXiv:math.NT/1010.6206}.
+
+\bibitem[{Lyn}11]{2011arXiv1108.4056L}
+\bgroup\scshape{}T.~W. {Lynch}\egroup{}, {More Jabber about the Collatz
+  Conjecture and a Closed Form for Detecting Cycles on Special Subsequences
+  [Assertion: Collatz cycles]},  \emph{eprint arXiv:1108.4056} (2011).
+
+\end{thebibliography}
