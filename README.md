@@ -4,4 +4,4 @@ id: paper_0001
 
 * **About the proof of the Collatz conjecture**  
 Carolin Zöbelein, 2013/03, Eprint: *arXiv:1303.2073*  
-Number theory  
+https://github.com/Samdney/paper-collatz, https://arxiv.org/abs/1303.2073   
